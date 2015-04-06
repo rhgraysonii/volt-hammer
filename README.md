@@ -1,6 +1,5 @@
-# Volt::Hammer
-
-TODO: Write a gem description
+# Volt-Hammer
+Hammer.js touch gestures packaged for Volt.
 
 ## Installation
 
@@ -16,9 +15,15 @@ Or install it yourself as:
 
     $ gem install volt-hammer
 
+And in `dependencies.rb`
+
+```RUBY
+component 'hammer'
+```
+
 ## Usage
 
-TODO: Write usage instructions here
+See the [Official Documentation](http://hammerjs.github.io/getting-started/)
 
 ## Contributing
 
